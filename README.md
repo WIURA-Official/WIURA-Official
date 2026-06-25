@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/WIURA-Official.png" width="160" />
+</p>
 
-<!--
-**WIURA-Official/WIURA-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">WIURA</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Wish. Create. Beyond.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Official GitHub of WIURA.
+</p>
+
+---
+
+## About WIURA
+
+WIURA is a creative technology brand focused on building software, automation tools, AI experiences, watch faces, and digital products.
+
+Every great creation begins with a wish.
+
+---
+
+## Projects
+
+### WIURA Macro
+Official macro automation software developed by WIURA.
+
+### WIURA Web
+Official website for WIURA.
+
+---
+
+## Links
+
+- YouTube: https://youtube.com/@wiura.official
+- Website: https://wiura.com
